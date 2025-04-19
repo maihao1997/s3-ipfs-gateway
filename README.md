@@ -36,6 +36,7 @@ My approach prioritized:
 
 ## Repository Organization
 
+```
 s3-ipfs-gateway/
 │
 ├── docs/
@@ -78,7 +79,7 @@ s3-ipfs-gateway/
 ├── tsconfig.json             # TypeScript config
 ├── Makefile                  # Build automation
 └── README.md                 # Main documentation
-
+```
 
 ## Production Implementation Vision
 
